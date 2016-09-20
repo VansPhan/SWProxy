@@ -1,0 +1,291 @@
+﻿Monster Id,Name,Level,Stars,Attribute,In Storage,hp,atk,hp,def,spd,cri rate,cri dmg,resistance,accuracy
+1,Megan,40,6,Water,No,9885,582,9885,571,97,15,50,15,0
+2,Chilling,40,6,Water,No,9225,736,9225,626,101,15,50,15,0
+3,Julie,40,6,Water,No,10545,834,10545,439,103,15,50,15,0
+4,Orion,40,6,Water,No,10215,637,10215,659,106,15,50,15,0
+5,Sigmarus,40,6,Water,No,8730,988,8730,571,94,30,50,15,0
+6,Tarq,40,6,Water,No,8565,714,8565,362,115,15,50,15,0
+7,Malaka,40,6,Water,No,8565,812,8565,593,99,15,50,15,0
+8,Galleon,40,6,Water,No,11535,714,11535,494,108,15,50,15,0
+9,Xiao Lin,40,6,Water,No,8730,736,8730,659,102,15,50,15,0
+10,Spectra,40,6,Fire,No,9060,571,9060,637,126,15,50,15,0
+11,Baretta,40,6,Fire,No,11205,681,11205,549,105,15,50,15,0
+12,Verdehile,40,6,Fire,No,9885,812,9885,505,99,15,50,15,0
+13,Chloe,40,6,Fire,No,11700,549,11700,648,111,15,50,15,0
+14,Trevor,40,6,Fire,No,8895,725,8895,659,107,15,50,15,0
+15,Perna,40,6,Fire,No,12345,878,12345,439,109,15,50,15,0
+16,Perna,40,6,Fire,No,12345,878,12345,439,109,15,50,15,0
+17,Tesarion,40,6,Fire,No,11535,747,11535,626,100,15,50,15,25
+18,Vanessa,40,6,Fire,No,10875,703,10875,714,101,15,50,40,0
+19,Velajuel,40,6,Fire,No,10050,681,10050,790,95,30,50,15,0
+20,Lisa,40,6,Fire,No,11535,714,11535,494,104,15,50,15,0
+21,Zaiross,40,6,Fire,No,9720,911,9720,582,94,30,50,15,0
+22,Okeanos,40,6,Fire,No,10710,769,10710,659,101,30,50,15,0
+23,Zaiross,40,6,Fire,No,9720,911,9720,582,94,30,50,15,0
+24,Hwa,40,6,Fire,No,9720,758,9720,571,104,15,50,15,25
+25,Bernard,40,6,Wind,No,10380,417,10380,703,111,15,50,15,0
+26,Copper,40,6,Wind,No,9555,483,9555,692,98,15,50,40,0
+27,Seara,40,6,Wind,No,10875,801,10875,615,100,15,50,15,25
+28,Chasun,40,6,Wind,No,11040,659,11040,582,101,15,50,40,0
+29,Kaito,40,6,Wind,No,9060,867,9060,505,103,15,50,15,25
+30,Jamire,40,6,Wind,No,10710,714,10710,714,113,15,50,15,0
+31,Katarina,40,6,Wind,No,11205,801,11205,593,116,15,50,15,0
+32,Lushen,40,6,Wind,No,9225,900,9225,461,103,15,50,15,0
+33,Lushen,40,6,Wind,No,9225,900,9225,461,103,15,50,15,0
+34,Hathor,40,6,Wind,No,11040,692,11040,714,99,15,50,15,25
+35,Belladeon,40,6,Light,No,9885,472,9885,681,108,15,50,15,0
+36,Icasha,40,6,Light,No,9225,615,9225,747,96,15,50,15,0
+37,Illiana,40,6,Light,No,11040,538,11040,703,104,15,50,15,0
+38,Eshir,40,6,Light,No,12840,472,12840,483,115,15,50,15,0
+39,Shren,40,6,Light,No,10380,725,10380,395,104,15,50,15,0
+40,Amarna,40,6,Light,No,9885,681,9885,637,101,15,50,15,0
+41,Veromos,40,6,Dark,No,9225,769,9225,758,100,15,50,15,25
+42,Jultan,40,6,Dark,No,11370,560,11370,494,115,15,50,15,0
+43,Mantura,40,6,Dark,No,9885,604,9885,549,100,15,50,15,0
+44,Basalt,37,6,Dark,No,9480,422,9480,685,99,15,50,15,0
+45,Konamiya,35,5,Water,No,8595,283,8595,355,91,15,50,15,0
+46,Raoq,35,5,Fire,No,6660,500,6660,387,108,15,50,15,0
+47,Randy,35,5,Fire,No,6660,460,6660,428,110,15,50,15,0
+48,Xiong Fei,35,5,Fire,No,7755,452,7755,605,96,15,50,40,0
+49,Vampire (Fire),35,5,Fire,No,6900,509,6900,363,98,15,50,15,0
+50,Panda Warrior (Fire),35,5,Fire,No,7260,428,7260,541,95,15,50,15,0
+51,Imesety,35,5,Wind,No,7380,500,7380,460,102,15,50,15,0
+52,Ramagos,35,5,Wind,No,7755,283,7755,412,102,15,50,15,0
+53,Mav,35,5,Wind,No,7500,468,7500,363,105,15,50,15,0
+54,Akhamamir,35,5,Wind,No,8355,597,8355,420,100,30,50,15,0
+55,Darion,35,5,Light,No,7875,404,7875,404,98,15,50,15,25
+56,Death Knight (Light),35,5,Light,No,6540,509,6540,387,100,15,50,15,0
+57,Grim Reaper (Light),35,5,Light,No,5445,525,5445,323,90,15,50,15,0
+58,Grim Reaper (Dark),35,5,Dark,No,7260,484,7260,242,90,15,50,15,0
+59,Golem (Light),34,5,Light,No,7035,246,7035,477,90,15,50,15,0
+60,Lich (Water),32,5,Water,No,6360,470,6360,377,95,15,50,15,0
+61,Battle Mammoth (Water),1,5,Water,No,3915,214,3915,238,98,15,50,15,0
+62,Pierret (Wind),1,5,Wind,No,3780,352,3780,181,102,15,50,15,0
+63,Rainbowmon,1,5,Light,No,75,5,75,5,0,0,0,0,0
+64,Neostone Fighter (Water),1,4,Water,No,3240,206,3240,154,106,15,50,15,0
+65,Lich (Water),1,4,Water,No,2880,213,2880,171,95,15,50,15,0
+66,Phantom Thief (Wind),1,4,Wind,No,2355,237,2355,182,104,15,50,15,0
+67,Sylph (Wind),1,4,Wind,No,2985,241,2985,136,105,15,50,15,0
+68,Samurai (Wind),1,4,Wind,No,3045,213,3045,161,102,15,50,15,0
+69,Rainbowmon,1,4,Light,No,45,3,45,3,0,0,0,0,0
+70,Rainbowmon,1,4,Light,No,45,3,45,3,0,0,0,0,0
+71,Harg (Water),16,3,Water,No,2685,158,2685,189,104,15,50,15,0
+72,Martial Artist (Wind),16,3,Wind,No,2730,186,2730,158,98,15,50,15,0
+73,Epikion Priest (Water),1,3,Water,No,1965,102,1965,131,95,15,50,15,0
+74,Golem (Water),1,3,Water,No,2220,73,2220,143,86,15,50,15,0
+75,Minotauros (Water),1,3,Water,No,1995,119,1995,112,98,15,50,15,0
+76,Bounty Hunter (Water),1,3,Water,No,1680,128,1680,124,94,15,50,15,0
+77,Magical Archer (Water),1,3,Water,No,1740,155,1740,92,104,15,50,15,0
+78,Bounty Hunter (Water),1,3,Water,No,1680,128,1680,124,94,15,50,15,0
+79,Magical Archer (Water),1,3,Water,No,1740,155,1740,92,104,15,50,15,0
+80,Martial Cat (Water),1,3,Water,No,1740,138,1740,109,103,15,50,15,0
+81,Living Armor (Water),1,3,Water,No,1815,114,1815,128,97,15,50,15,0
+82,Epikion Priest (Water),1,3,Water,No,1965,102,1965,131,95,15,50,15,0
+83,Penguin Knight (Water),1,3,Water,No,1815,136,1815,107,104,15,50,15,0
+84,Frankenstein (Water),1,3,Water,No,1815,109,1815,133,97,15,50,15,0
+85,Epikion Priest (Water),1,3,Water,No,1965,102,1965,131,95,15,50,15,0
+86,Frankenstein (Water),1,3,Water,No,1815,109,1815,133,97,15,50,15,0
+87,Living Armor (Fire),1,3,Fire,No,1890,104,1890,133,97,15,50,15,0
+88,Harg (Fire),1,3,Fire,No,1920,114,1920,121,104,15,50,15,0
+89,High Elemental (Fire),1,3,Fire,No,1275,172,1275,107,101,15,50,15,0
+90,Magical Archer (Fire),1,3,Fire,No,1635,153,1635,102,104,15,50,15,0
+91,Charger Shark (Fire),1,3,Fire,No,1890,121,1890,116,104,15,50,15,0
+92,Inugami (Fire),1,3,Fire,No,1860,136,1860,104,107,15,50,15,0
+93,Inugami (Fire),1,3,Fire,No,1860,136,1860,104,107,15,50,15,0
+94,Charger Shark (Fire),1,3,Fire,No,1890,121,1890,116,104,15,50,15,0
+95,Martial Artist (Wind),1,3,Wind,No,1890,128,1890,109,98,15,50,15,0
+96,Battle Mammoth (Wind),1,3,Wind,No,1815,102,1815,141,98,15,50,15,0
+97,Elven Ranger (Wind),1,3,Wind,No,1785,131,1785,114,100,15,50,15,0
+98,Martial Cat (Wind),1,3,Wind,No,1740,136,1740,112,103,15,50,15,0
+99,Grim Reaper (Wind),1,3,Wind,No,2040,153,2040,75,90,15,50,15,0
+100,Lizardman (Light),1,3,Light,No,1815,121,1815,121,102,15,50,15,0
+101,Elemental (Dark),1,3,Dark,No,1710,150,1710,99,106,15,50,15,0
+102,Forest Keeper (Water),7,2,Water,No,1110,63,1110,98,88,15,50,15,0
+103,Vampire (Fire),1,5,Fire,Yes,4065,299,4065,214,98,15,50,15,0
+104,Vampire (Fire),1,5,Fire,Yes,4065,299,4065,214,98,15,50,15,0
+105,Vampire (Fire),1,5,Fire,Yes,4065,299,4065,214,98,15,50,15,0
+106,Ifrit (Fire),1,5,Fire,Yes,4425,280,4425,280,99,15,50,15,0
+107,Ifrit (Fire),1,5,Fire,Yes,4425,280,4425,280,99,15,50,15,0
+108,Ifrit (Wind),1,5,Wind,Yes,3915,328,3915,266,99,15,50,15,0
+109,Succubus (Light),1,5,Light,Yes,3135,295,3135,280,105,15,50,15,0
+110,Pierret (Light),1,4,Light,Yes,2835,199,2835,189,102,15,50,15,0
+111,Penguin Knight (Light),1,4,Light,Yes,2730,178,2730,164,104,15,50,15,0
+112,Hannam,1,4,Dark,Yes,2775,237,2775,154,100,15,50,15,0
+113,Imp Champion (Dark),1,4,Dark,Yes,2310,216,2310,154,101,15,50,15,0
+114,Golem (Dark),6,3,Dark,Yes,2295,96,2295,162,88,15,50,15,0
+115,Epikion Priest (Water),1,3,Water,Yes,1965,102,1965,131,95,15,50,15,0
+116,Epikion Priest (Water),1,3,Water,Yes,1965,102,1965,131,95,15,50,15,0
+117,Epikion Priest (Water),1,3,Water,Yes,1965,102,1965,131,95,15,50,15,0
+118,Penguin Knight (Water),1,3,Water,Yes,1815,136,1815,107,104,15,50,15,0
+119,Epikion Priest (Water),1,3,Water,Yes,1965,102,1965,131,95,15,50,15,0
+120,Penguin Knight (Water),1,3,Water,Yes,1815,136,1815,107,104,15,50,15,0
+121,Charger Shark (Fire),1,3,Fire,Yes,1890,121,1890,116,104,15,50,15,0
+122,Inugami (Fire),1,3,Fire,Yes,1860,136,1860,104,107,15,50,15,0
+123,Charger Shark (Fire),1,3,Fire,Yes,1890,121,1890,116,104,15,50,15,0
+124,Charger Shark (Fire),1,3,Fire,Yes,1890,121,1890,116,104,15,50,15,0
+125,Inugami (Fire),1,3,Fire,Yes,1860,136,1860,104,107,15,50,15,0
+126,Charger Shark (Fire),1,3,Fire,Yes,1890,121,1890,116,104,15,50,15,0
+127,Charger Shark (Fire),1,3,Fire,Yes,1890,121,1890,116,104,15,50,15,0
+128,Mystic Witch (Fire),1,3,Fire,Yes,1920,121,1920,114,96,15,50,15,0
+129,Mystic Witch (Fire),1,3,Fire,Yes,1920,121,1920,114,96,15,50,15,0
+130,Golem (Fire),1,3,Fire,Yes,1995,80,1995,150,88,15,50,15,0
+131,Martial Cat (Wind),1,3,Wind,Yes,1740,136,1740,112,103,15,50,15,0
+132,Martial Cat (Wind),1,3,Wind,Yes,1740,136,1740,112,103,15,50,15,0
+133,Martial Cat (Wind),1,3,Wind,Yes,1740,136,1740,112,103,15,50,15,0
+134,Minotauros (Wind),1,3,Wind,Yes,1995,114,1995,116,98,15,50,15,0
+135,Amazon (Wind),1,3,Wind,Yes,1995,141,1995,90,101,15,50,15,0
+136,Lizardman (Wind),1,3,Wind,Yes,1740,124,1740,124,102,15,50,15,0
+137,Serpent (Wind),1,3,Wind,Yes,2220,116,2220,99,99,15,50,15,0
+138,Harpy (Wind),1,3,Wind,Yes,1860,141,1860,99,104,15,50,15,0
+139,Drunken Master (Wind),1,3,Wind,Yes,1605,141,1605,116,98,15,50,15,0
+140,Epikion Priest (Wind),1,3,Wind,Yes,2115,116,2115,107,95,15,50,15,0
+141,Drunken Master (Wind),1,3,Wind,Yes,1605,141,1605,116,98,15,50,15,0
+142,Living Armor (Wind),1,3,Wind,Yes,1965,107,1965,126,97,15,50,15,0
+143,Werewolf (Wind),1,3,Wind,Yes,1740,116,1740,131,99,15,50,15,0
+144,Martial Cat (Wind),1,3,Wind,Yes,1740,136,1740,112,103,15,50,15,0
+145,Frankenstein (Wind),1,3,Wind,Yes,1890,107,1890,131,97,15,50,15,0
+146,Penguin Knight (Wind),1,3,Wind,Yes,1995,128,1995,102,104,15,50,15,0
+147,High Elemental (Wind),1,3,Wind,Yes,1170,184,1170,102,104,15,50,15,0
+148,Grim Reaper (Wind),1,3,Wind,Yes,2040,153,2040,75,90,15,50,15,0
+149,Grim Reaper (Wind),1,3,Wind,Yes,2040,153,2040,75,90,15,50,15,0
+150,Rainbowmon,1,3,Light,Yes,30,2,30,2,0,0,0,0,0
+151,Battle Mammoth (Light),1,3,Light,Yes,2070,109,2070,116,98,15,50,15,0
+152,Beast Hunter (Light),1,3,Light,Yes,1920,124,1920,112,99,15,50,15,0
+153,Martial Artist (Light),1,3,Light,Yes,2145,102,2145,119,98,15,50,15,0
+154,Charger Shark (Light),1,3,Light,Yes,1890,133,1890,104,104,15,50,15,0
+155,Martial Cat (Light),1,3,Light,Yes,1815,145,1815,97,103,15,50,15,0
+156,Serpent (Light),1,3,Light,Yes,2115,109,2115,114,99,15,50,15,0
+157,Penguin Knight (Light),1,3,Light,Yes,1890,124,1890,114,104,15,50,15,0
+158,Living Armor (Light),1,3,Light,Yes,1995,99,1995,131,97,15,50,15,0
+159,Garuda (Light),1,3,Light,Yes,1920,114,1920,121,94,15,50,15,0
+160,Charger Shark (Light),1,3,Light,Yes,1890,133,1890,104,104,15,50,15,0
+161,Martial Cat (Dark),1,3,Dark,Yes,1560,155,1560,104,103,15,50,15,0
+162,Martial Artist (Dark),1,3,Dark,Yes,1815,102,1815,141,98,15,50,15,0
+163,Griffon (Dark),1,3,Dark,Yes,2325,99,2325,109,110,15,50,15,0
+164,Harg (Dark),1,3,Dark,Yes,1815,121,1815,121,104,15,50,15,0
+165,Serpent (Dark),1,3,Dark,Yes,1995,124,1995,107,99,15,50,15,0
+166,Yeti (Dark),1,3,Dark,Yes,2250,99,2250,114,100,15,50,15,0
+167,Drunken Master (Dark),1,3,Dark,Yes,1560,145,1560,114,98,15,50,15,0
+168,Hellhound (Dark),1,3,Dark,Yes,1380,167,1380,104,112,15,50,15,0
+169,Inferno (Dark),1,3,Dark,Yes,1230,187,1230,95,94,15,50,15,0
+170,Bounty Hunter (Dark),1,3,Dark,Yes,1740,131,1740,116,94,15,50,15,0
+171,Elemental (Dark),1,3,Dark,Yes,1710,150,1710,99,106,15,50,15,0
+172,Charger Shark (Dark),1,3,Dark,Yes,1890,136,1890,102,104,15,50,15,0
+173,Golem (Dark),1,3,Dark,Yes,2040,85,2040,143,88,15,50,15,0
+174,Battle Mammoth (Dark),1,3,Dark,Yes,1995,97,1995,133,98,15,50,15,0
+175,Frankenstein (Dark),1,3,Dark,Yes,1890,109,1890,128,97,15,50,15,0
+176,Living Armor (Dark),1,3,Dark,Yes,1920,109,1920,126,97,15,50,15,0
+177,Bearman (Dark),1,3,Dark,Yes,2040,102,2040,126,100,15,50,15,0
+178,Mummy (Dark),1,3,Dark,Yes,1995,116,1995,114,96,15,50,15,0
+179,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+180,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+181,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+182,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+183,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+184,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+185,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+186,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+187,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+188,Rainbowmon,20,2,Light,Yes,45,3,45,3,0,0,0,0,0
+189,Viking (Light),1,2,Light,Yes,975,69,975,81,96,15,50,15,0
+190,Imp (Light),1,2,Light,Yes,1050,81,1050,64,112,15,50,15,0
+191,Pixie (Light),1,2,Light,Yes,1050,80,1050,65,110,15,50,15,0
+192,Howl (Light),1,2,Light,Yes,975,69,975,81,98,15,50,15,0
+193,Howl (Light),1,2,Light,Yes,975,69,975,81,98,15,50,15,0
+194,Howl (Dark),1,2,Dark,Yes,885,72,885,85,98,15,50,15,0
+195,Fairy (Dark),1,2,Dark,Yes,1035,78,1035,69,101,15,50,15,0
+196,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+197,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+198,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+199,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+200,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+201,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+202,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+203,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+204,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+205,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+206,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+207,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+208,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+209,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+210,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+211,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+212,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+213,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+214,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+215,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+216,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+217,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+218,Blue Angelmon,15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+219,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+220,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+221,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+222,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+223,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+224,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+225,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+226,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+227,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+228,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+229,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+230,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+231,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+232,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+233,Angelmon (Water),15,1,Water,Yes,30,2,30,2,0,0,0,0,0
+234,Red Angelmon,15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+235,Red Angelmon,15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+236,Red Angelmon,15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+237,Red Angelmon,15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+238,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+239,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+240,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+241,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+242,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+243,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+244,Angelmon (Fire),15,1,Fire,Yes,30,2,30,2,0,0,0,0,0
+245,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+246,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+247,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+248,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+249,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+250,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+251,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+252,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+253,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+254,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+255,Gold Angelmon,15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+256,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+257,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+258,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+259,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+260,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+261,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+262,Angelmon (Wind),15,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+263,King Angelmon (Dark),15,1,Dark,Yes,30,2,30,2,0,0,0,0,0
+264,King Angelmon (Dark),15,1,Dark,Yes,30,2,30,2,0,0,0,0,0
+265,King Angelmon (Dark),15,1,Dark,Yes,30,2,30,2,0,0,0,0,0
+266,Gold Angelmon,10,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+267,Gold Angelmon,10,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+268,Gold Angelmon,10,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+269,Gold Angelmon,10,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+270,Gold Angelmon,10,1,Wind,Yes,30,2,30,2,0,0,0,0,0
+271,Blue Angelmon,6,1,Water,Yes,15,1,15,1,0,0,0,0,0
+272,Blue Angelmon,5,1,Water,Yes,15,1,15,1,0,0,0,0,0
+273,Blue Angelmon,5,1,Water,Yes,15,1,15,1,0,0,0,0,0
+274,Blue Angelmon,5,1,Water,Yes,15,1,15,1,0,0,0,0,0
+275,Blue Angelmon,5,1,Water,Yes,15,1,15,1,0,0,0,0,0
+276,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+277,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+278,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+279,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+280,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+281,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+282,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+283,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+284,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+285,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+286,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+287,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+288,Gold Angelmon,5,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+289,Angelmon (Wind),1,1,Wind,Yes,15,1,15,1,0,0,0,0,0
+290,White King Angelmon,1,1,Light,Yes,15,1,15,1,0,0,0,0,0
