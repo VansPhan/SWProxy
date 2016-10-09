@@ -356,3 +356,539 @@
 2016-10-01 02:18:46,694: proxy - INFO - 192.168.1.8:54767 - CONNECT image-glb.qpyou.cn:443
 2016-10-01 02:18:46,694: proxy - INFO - 192.168.1.8:54747 - CONNECT graph.facebook.com:443
 2016-10-01 02:18:51,375: proxy - INFO - 192.168.1.8:54780 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-01 21:13:42,851: SWPlugin - INFO - Loaded 6 plugins
+2016-10-01 21:13:46,128: SWProxy - INFO - Running Proxy server at 192.168.1.13 on port 8080
+2016-10-01 21:13:46,130: proxy - INFO - Starting server on 192.168.1.13, port 8080
+2016-10-01 21:15:53,171: proxy - INFO - 192.168.1.8:56552 - CONNECT configuration.apple.com:443
+2016-10-01 21:15:53,243: proxy - INFO - 192.168.1.8:56553 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-01 21:15:53,875: proxy - INFO - 192.168.1.8:56559 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 527 bytes
+2016-10-01 21:15:54,134: proxy - INFO - 192.168.1.8:56562 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 463 bytes
+2016-10-01 21:15:54,214: proxy - INFO - 192.168.1.8:56560 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-01 21:15:54,285: proxy - INFO - 192.168.1.8:56561 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-01 21:15:54,539: proxy - INFO - 192.168.1.8:56563 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-01 21:15:54,664: proxy - INFO - 192.168.1.8:56564 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-01 21:15:56,115: proxy - INFO - 192.168.1.8:56565 - GET summonerswar-gb.com2us.net:80/api/location_c2.php - 200 OK - 608 bytes
+2016-10-01 21:15:56,463: proxy - INFO - 192.168.1.8:56566 - POST summonerswar-gb.qpyou.cn:80/api/server_status_c2.php - 200 OK - 331 bytes
+2016-10-01 21:15:56,841: proxy - INFO - 192.168.1.8:56567 - POST summonerswar-gb.qpyou.cn:80/api/version_info_c2.php - 200 OK - 596 bytes
+2016-10-01 21:15:57,105: proxy - INFO - 192.168.1.8:56568 - GET image-glb.qpyou.cn:80/smon/hub_dist/res/download_3.00.24.inf - 200 OK - 637 bytes
+2016-10-01 21:15:57,917: proxy - INFO - 192.168.1.8:56569 - GET image-glb.qpyou.cn:80/smon/hub_dist/banapplist/banapplist.dat - 200 OK - 1553 bytes
+2016-10-01 21:15:58,259: proxy - INFO - 192.168.1.8:56570 - POST api.qpyou.cn:80/device/registered - 200 OK - 331 bytes
+2016-10-01 21:15:58,782: proxy - INFO - 192.168.1.8:56571 - GET hub.qpyou.cn:80/auth - 302 Moved Temporarily - 764 bytes
+2016-10-01 21:15:59,194: proxy - INFO - 192.168.1.8:56573 - POST api.qpyou.cn:80/user/me - 200 OK - 682 bytes
+2016-10-01 21:15:59,528: SWProxy - INFO - Found Summoners War API request : CheckLoginBlock
+2016-10-01 21:15:59,529: proxy - INFO - 192.168.1.8:56575 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 468 bytes
+2016-10-01 21:15:59,625: proxy - INFO - 192.168.1.8:56576 - POST m-mercury.qpyou.cn:80/init - 200 OK - 709 bytes
+2016-10-01 21:15:59,921: proxy - INFO - 192.168.1.8:56578 - POST m-mercury.qpyou.cn:80/init - 200 OK - 679 bytes
+2016-10-01 21:16:00,269: SWProxy - INFO - Found Summoners War API request : HubUserLogin
+2016-10-01 21:16:00,523: SWProxy - INFO - Monsters and Runes data generated
+2016-10-01 21:16:00,526: proxy - INFO - 192.168.1.8:56577 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 70634 bytes
+2016-10-01 21:16:00,852: proxy - INFO - 192.168.1.8:56572 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-01 21:16:00,976: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-01 21:16:00,979: proxy - INFO - 192.168.1.8:56579 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-01 21:16:01,263: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-01 21:16:01,265: proxy - INFO - 192.168.1.8:56580 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-01 21:16:02,556: SWProxy - INFO - Found Summoners War API request : GetRTPvPInfo
+2016-10-01 21:16:02,558: SWProxy - INFO - Found Summoners War API request : GetGuildRequestAll
+2016-10-01 21:16:02,559: proxy - INFO - 192.168.1.8:56585 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-01 21:16:02,559: SWProxy - INFO - Found Summoners War API request : GetFriendRequest
+2016-10-01 21:16:02,559: SWProxy - INFO - Found Summoners War API request : GetArenaLog
+2016-10-01 21:16:02,562: proxy - INFO - 192.168.1.8:56584 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-01 21:16:02,563: proxy - INFO - 192.168.1.8:56582 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-01 21:16:02,563: proxy - INFO - 192.168.1.8:56586 - POST m-mercury.qpyou.cn:80/init - 200 OK - 760 bytes
+2016-10-01 21:16:02,563: proxy - INFO - 192.168.1.8:56583 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1321 bytes
+2016-10-01 21:16:02,803: SWProxy - INFO - Found Summoners War API request : GetChatServerInfo
+2016-10-01 21:16:02,805: proxy - INFO - 192.168.1.8:56588 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 768 bytes
+2016-10-01 21:16:02,805: SWProxy - INFO - Found Summoners War API request : ReceiveDailyRewardSpecial
+2016-10-01 21:16:02,805: proxy - INFO - 192.168.1.8:56590 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-01 21:16:02,832: SWProxy - INFO - Found Summoners War API request : getUnitUpgradeRewardInfo
+2016-10-01 21:16:02,832: proxy - INFO - 192.168.1.8:56591 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 980 bytes
+2016-10-01 21:16:02,852: SWProxy - INFO - Found Summoners War API request : receiveDailyRewardInactive
+2016-10-01 21:16:02,852: proxy - INFO - 192.168.1.8:56589 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-01 21:16:03,065: SWProxy - INFO - Found Summoners War API request : CheckDarkPortalStatus
+2016-10-01 21:16:03,065: proxy - INFO - 192.168.1.8:56593 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-01 21:16:03,069: SWProxy - INFO - Found Summoners War API request : GetCostumeCollectionList
+2016-10-01 21:16:03,071: proxy - INFO - 192.168.1.8:56592 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1256 bytes
+2016-10-01 21:16:05,032: proxy - INFO - 192.168.1.8:56581 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-01 21:16:05,621: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-01 21:16:05,621: proxy - INFO - 192.168.1.8:56595 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1685 bytes
+2016-10-01 21:16:06,056: SWProxy - INFO - Found Summoners War API request : GetNoticeDungeon
+2016-10-01 21:16:06,058: proxy - INFO - 192.168.1.8:56597 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-01 21:16:06,072: SWProxy - INFO - Found Summoners War API request : GetNoticeChat
+2016-10-01 21:16:06,072: proxy - INFO - 192.168.1.8:56598 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 660 bytes
+2016-10-01 21:16:06,082: proxy - INFO - 192.168.1.8:56599 - POST api.qpyou.cn:80/user/118005567 - 200 OK - 573 bytes
+2016-10-01 21:16:06,871: proxy - INFO - 192.168.1.8:56600 - POST api.qpyou.cn:80/user/84248951 - 200 OK - 629 bytes
+2016-10-01 21:16:07,266: proxy - INFO - 192.168.1.8:56601 - POST api.qpyou.cn:80/user/165435408 - 200 OK - 551 bytes
+2016-10-01 21:16:07,641: proxy - INFO - 192.168.1.8:56602 - POST api.qpyou.cn:80/user/91387490 - 200 OK - 547 bytes
+2016-10-01 21:16:07,982: proxy - INFO - 192.168.1.8:56603 - POST api.qpyou.cn:80/user/109046775 - 200 OK - 566 bytes
+2016-10-01 21:16:08,322: proxy - INFO - 192.168.1.8:56605 - POST api.qpyou.cn:80/user/155581592 - 200 OK - 542 bytes
+2016-10-01 21:16:08,921: proxy - INFO - 192.168.1.8:56607 - POST api.qpyou.cn:80/user/155168453 - 200 OK - 510 bytes
+2016-10-01 21:16:09,252: proxy - INFO - 192.168.1.8:56608 - POST api.qpyou.cn:80/user/146198895 - 200 OK - 549 bytes
+2016-10-01 21:16:09,266: proxy - INFO - 192.168.1.8:56606 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-01 21:16:09,586: proxy - INFO - 192.168.1.8:56610 - POST api.qpyou.cn:80/user/121344674 - 200 OK - 551 bytes
+2016-10-01 21:16:09,914: proxy - INFO - 192.168.1.8:56611 - POST api.qpyou.cn:80/user/137756713 - 200 OK - 507 bytes
+2016-10-01 21:16:10,140: proxy - INFO - 192.168.1.8:56609 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-01 21:16:10,354: proxy - INFO - 192.168.1.8:56612 - POST api.qpyou.cn:80/user/116822440 - 200 OK - 548 bytes
+2016-10-01 21:16:11,338: proxy - INFO - 192.168.1.8:56594 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-01 21:16:12,355: SWProxy - INFO - Found Summoners War API request : GetBlackMarketList
+2016-10-01 21:16:12,357: proxy - INFO - 192.168.1.8:56614 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1321 bytes
+2016-10-01 21:16:19,743: proxy - INFO - 192.168.1.8:56613 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-01 21:16:23,288: proxy - INFO - 192.168.1.8:56551 - CONNECT setting.adzcore.com:443
+2016-10-01 21:16:24,377: proxy - INFO - 192.168.1.8:56556 - CONNECT live.chartboost.com:443
+2016-10-01 21:16:24,377: proxy - INFO - 192.168.1.8:56558 - CONNECT action.adzcore.com:443
+2016-10-01 21:16:24,377: proxy - INFO - 192.168.1.8:56554 - CONNECT graph.facebook.com:443
+2016-10-01 21:16:24,769: proxy - INFO - 192.168.1.8:56555 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-01 21:16:25,023: proxy - INFO - 192.168.1.8:56557 - CONNECT itunes.apple.com:443
+2016-10-01 21:16:29,035: proxy - INFO - 192.168.1.8:56615 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-01 21:16:32,740: proxy - INFO - 192.168.1.8:56587 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-01 21:16:36,470: proxy - INFO - 192.168.1.8:56596 - CONNECT 169452.engine.mobileapptracking.com:443
+2016-10-01 21:16:40,900: proxy - INFO - 192.168.1.8:56574 - CONNECT image-glb.qpyou.cn:443
+2016-10-02 00:44:49,740: SWPlugin - INFO - Loaded 6 plugins
+2016-10-02 00:45:01,770: SWProxy - INFO - Running Proxy server at 192.168.1.13 on port 8080
+2016-10-02 00:45:01,772: proxy - INFO - Starting server on 192.168.1.13, port 8080
+2016-10-02 00:45:51,436: proxy - INFO - 192.168.1.8:56879 - CONNECT configuration.apple.com:443
+2016-10-02 00:45:51,733: proxy - INFO - 192.168.1.8:56880 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-02 00:45:55,081: proxy - INFO - 192.168.1.8:56890 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 418 bytes
+2016-10-02 00:45:55,477: proxy - INFO - 192.168.1.8:56893 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 463 bytes
+2016-10-02 00:45:55,497: proxy - INFO - 192.168.1.8:56892 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-02 00:45:55,500: proxy - INFO - 192.168.1.8:56891 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-02 00:45:55,862: proxy - INFO - 192.168.1.8:56894 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-02 00:45:56,095: proxy - INFO - 192.168.1.8:56895 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-02 00:45:57,460: proxy - INFO - 192.168.1.8:56896 - GET summonerswar-gb.com2us.net:80/api/location_c2.php - 200 OK - 608 bytes
+2016-10-02 00:45:57,801: proxy - INFO - 192.168.1.8:56897 - POST summonerswar-gb.qpyou.cn:80/api/server_status_c2.php - 200 OK - 331 bytes
+2016-10-02 00:45:58,094: proxy - INFO - 192.168.1.8:56898 - POST summonerswar-gb.qpyou.cn:80/api/version_info_c2.php - 200 OK - 596 bytes
+2016-10-02 00:45:58,230: proxy - INFO - 192.168.1.8:56899 - GET image-glb.qpyou.cn:80/smon/hub_dist/res/download_3.00.24.inf - 200 OK - 637 bytes
+2016-10-02 00:45:59,013: proxy - INFO - 192.168.1.8:56900 - GET image-glb.qpyou.cn:80/smon/hub_dist/banapplist/banapplist.dat - 200 OK - 1553 bytes
+2016-10-02 00:45:59,454: proxy - INFO - 192.168.1.8:56901 - POST api.qpyou.cn:80/device/registered - 200 OK - 331 bytes
+2016-10-02 00:46:00,016: proxy - INFO - 192.168.1.8:56902 - GET hub.qpyou.cn:80/auth - 302 Moved Temporarily - 839 bytes
+2016-10-02 00:46:00,595: proxy - INFO - 192.168.1.8:56903 - POST api.qpyou.cn:80/user/me - 200 OK - 682 bytes
+2016-10-02 00:46:00,996: SWProxy - INFO - Found Summoners War API request : CheckLoginBlock
+2016-10-02 00:46:00,999: proxy - INFO - 192.168.1.8:56906 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 468 bytes
+2016-10-02 00:46:01,023: proxy - INFO - 192.168.1.8:56907 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-02 00:46:01,328: proxy - INFO - 192.168.1.8:56909 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-02 00:46:01,848: SWProxy - INFO - Found Summoners War API request : HubUserLogin
+2016-10-02 00:46:02,124: SWProxy - INFO - Monsters and Runes data generated
+2016-10-02 00:46:02,127: proxy - INFO - 192.168.1.8:56904 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 00:46:02,128: proxy - INFO - 192.168.1.8:56908 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 70954 bytes
+2016-10-02 00:46:02,483: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-02 00:46:02,486: proxy - INFO - 192.168.1.8:56911 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-02 00:46:02,983: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-02 00:46:02,983: proxy - INFO - 192.168.1.8:56912 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-02 00:46:05,411: SWProxy - INFO - Found Summoners War API request : GetArenaLog
+2016-10-02 00:46:05,411: proxy - INFO - 192.168.1.8:56914 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1280 bytes
+2016-10-02 00:46:05,420: SWProxy - INFO - Found Summoners War API request : GetRTPvPInfo
+2016-10-02 00:46:05,421: proxy - INFO - 192.168.1.8:56916 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-02 00:46:05,428: SWProxy - INFO - Found Summoners War API request : GetGuildRequestAll
+2016-10-02 00:46:05,428: proxy - INFO - 192.168.1.8:56915 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 00:46:05,461: SWProxy - INFO - Found Summoners War API request : GetFriendRequest
+2016-10-02 00:46:05,463: proxy - INFO - 192.168.1.8:56913 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 00:46:05,490: proxy - INFO - 192.168.1.8:56917 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-02 00:46:05,648: SWProxy - INFO - Found Summoners War API request : receiveDailyRewardInactive
+2016-10-02 00:46:05,650: proxy - INFO - 192.168.1.8:56920 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 00:46:05,664: SWProxy - INFO - Found Summoners War API request : GetChatServerInfo
+2016-10-02 00:46:05,665: proxy - INFO - 192.168.1.8:56919 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 768 bytes
+2016-10-02 00:46:05,676: SWProxy - INFO - Found Summoners War API request : ReceiveDailyRewardSpecial
+2016-10-02 00:46:05,677: proxy - INFO - 192.168.1.8:56921 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 00:46:05,697: SWProxy - INFO - Found Summoners War API request : getUnitUpgradeRewardInfo
+2016-10-02 00:46:05,697: proxy - INFO - 192.168.1.8:56922 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 980 bytes
+2016-10-02 00:46:05,880: SWProxy - INFO - Found Summoners War API request : GetCostumeCollectionList
+2016-10-02 00:46:05,880: proxy - INFO - 192.168.1.8:56923 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1256 bytes
+2016-10-02 00:46:05,936: SWProxy - INFO - Found Summoners War API request : CheckDarkPortalStatus
+2016-10-02 00:46:05,937: proxy - INFO - 192.168.1.8:56924 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-02 00:46:06,128: proxy - INFO - 192.168.1.8:56910 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 00:46:09,111: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-02 00:46:09,111: proxy - INFO - 192.168.1.8:56927 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1685 bytes
+2016-10-02 00:46:09,546: SWProxy - INFO - Found Summoners War API request : GetNoticeDungeon
+2016-10-02 00:46:09,548: proxy - INFO - 192.168.1.8:56928 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 00:46:09,572: SWProxy - INFO - Found Summoners War API request : GetNoticeChat
+2016-10-02 00:46:09,572: proxy - INFO - 192.168.1.8:56929 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 660 bytes
+2016-10-02 00:46:09,585: proxy - INFO - 192.168.1.8:56930 - POST api.qpyou.cn:80/user/118005567 - 200 OK - 573 bytes
+2016-10-02 00:46:09,911: proxy - INFO - 192.168.1.8:56931 - POST api.qpyou.cn:80/user/84248951 - 200 OK - 629 bytes
+2016-10-02 00:46:10,263: proxy - INFO - 192.168.1.8:56932 - POST api.qpyou.cn:80/user/165435408 - 200 OK - 551 bytes
+2016-10-02 00:46:10,844: proxy - INFO - 192.168.1.8:56933 - POST api.qpyou.cn:80/user/91387490 - 200 OK - 547 bytes
+2016-10-02 00:46:11,217: proxy - INFO - 192.168.1.8:56935 - POST api.qpyou.cn:80/user/109046775 - 200 OK - 566 bytes
+2016-10-02 00:46:11,559: proxy - INFO - 192.168.1.8:56937 - POST api.qpyou.cn:80/user/165126479 - 200 OK - 549 bytes
+2016-10-02 00:46:11,891: proxy - INFO - 192.168.1.8:56938 - POST api.qpyou.cn:80/user/131212999 - 200 OK - 570 bytes
+2016-10-02 00:46:12,082: proxy - INFO - 192.168.1.8:56936 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-02 00:46:12,138: proxy - INFO - 192.168.1.8:56925 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 00:46:12,256: proxy - INFO - 192.168.1.8:56940 - POST api.qpyou.cn:80/user/112719793 - 200 OK - 565 bytes
+2016-10-02 00:46:12,569: proxy - INFO - 192.168.1.8:56942 - POST api.qpyou.cn:80/user/145089931 - 200 OK - 543 bytes
+2016-10-02 00:46:12,904: proxy - INFO - 192.168.1.8:56943 - POST api.qpyou.cn:80/user/157464034 - 200 OK - 547 bytes
+2016-10-02 00:46:12,957: proxy - INFO - 192.168.1.8:56939 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-02 00:46:13,450: proxy - INFO - 192.168.1.8:56944 - POST api.qpyou.cn:80/user/151124118 - 200 OK - 573 bytes
+2016-10-02 00:46:20,147: proxy - INFO - 192.168.1.8:56941 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 00:46:21,927: proxy - INFO - 192.168.1.8:56885 - CONNECT init.itunes.apple.com:443
+2016-10-02 00:46:22,016: proxy - INFO - 192.168.1.8:56877 - CONNECT setting.adzcore.com:443
+2016-10-02 00:46:22,016: proxy - INFO - 192.168.1.8:56884 - CONNECT live.chartboost.com:443
+2016-10-02 00:46:22,096: proxy - INFO - 192.168.1.8:56878 - CONNECT init.itunes.apple.com:443
+2016-10-02 00:46:22,566: proxy - INFO - 192.168.1.8:56887 - CONNECT iadsdk.apple.com:443
+2016-10-02 00:46:22,566: proxy - INFO - 192.168.1.8:56886 - CONNECT cf.iadsdk.apple.com:443
+2016-10-02 00:46:22,566: proxy - INFO - 192.168.1.8:56889 - CONNECT xp.apple.com:443
+2016-10-02 00:46:23,003: proxy - INFO - 192.168.1.8:56882 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-02 00:46:23,114: proxy - INFO - 192.168.1.8:56883 - CONNECT action.adzcore.com:443
+2016-10-02 00:46:24,762: proxy - INFO - 192.168.1.8:56888 - CONNECT itunes.apple.com:443
+2016-10-02 00:46:30,150: proxy - INFO - 192.168.1.8:56945 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 00:46:36,744: proxy - INFO - 192.168.1.8:56918 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-02 00:46:37,404: proxy - INFO - 192.168.1.8:56881 - CONNECT graph.facebook.com:443
+2016-10-02 00:46:37,404: proxy - INFO - 192.168.1.8:56926 - CONNECT 169452.engine.mobileapptracking.com:443
+2016-10-02 00:46:41,730: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-02 00:46:41,732: proxy - INFO - 192.168.1.8:56946 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-02 00:46:41,984: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-02 00:46:41,986: proxy - INFO - 192.168.1.8:56947 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-02 00:46:42,200: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-02 00:46:42,201: proxy - INFO - 192.168.1.8:56948 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-02 00:46:42,516: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-02 00:46:42,517: proxy - INFO - 192.168.1.8:56949 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-02 00:46:43,528: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-02 00:46:43,529: proxy - INFO - 192.168.1.8:56950 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-02 00:46:43,858: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-02 00:46:43,859: proxy - INFO - 192.168.1.8:56951 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-02 00:46:43,984: proxy - INFO - 192.168.1.8:56905 - CONNECT image-glb.qpyou.cn:443
+2016-10-02 00:46:44,585: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-02 00:46:44,585: proxy - INFO - 192.168.1.8:56952 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-02 00:46:46,023: SWProxy - INFO - Found Summoners War API request : GetBlackMarketList
+2016-10-02 00:46:46,025: proxy - INFO - 192.168.1.8:56953 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1236 bytes
+2016-10-02 00:46:49,267: SWProxy - INFO - Found Summoners War API request : BuyBlackMarketItem
+2016-10-02 00:46:49,269: proxy - INFO - 192.168.1.8:56954 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 960 bytes
+2016-10-02 00:46:57,865: SWProxy - INFO - Found Summoners War API request : SummonUnit
+2016-10-02 00:46:57,867: proxy - INFO - 192.168.1.8:56956 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1216 bytes
+2016-10-02 00:46:58,187: SWProxy - INFO - Found Summoners War API request : UpdateDailyQuest
+2016-10-02 00:46:58,188: proxy - INFO - 192.168.1.8:56957 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-02 02:58:48,368: SWPlugin - INFO - Loaded 6 plugins
+2016-10-02 02:58:54,447: SWProxy - INFO - Running Proxy server at 192.168.1.13 on port 8080
+2016-10-02 02:58:54,447: proxy - INFO - Starting server on 192.168.1.13, port 8080
+2016-10-02 02:59:13,592: proxy - INFO - 192.168.1.8:57069 - CONNECT configuration.apple.com:443
+2016-10-02 02:59:13,930: proxy - INFO - 192.168.1.8:57070 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-02 02:59:17,269: proxy - INFO - 192.168.1.8:57076 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 418 bytes
+2016-10-02 02:59:17,532: proxy - INFO - 192.168.1.8:57079 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 463 bytes
+2016-10-02 02:59:17,568: proxy - INFO - 192.168.1.8:57077 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-02 02:59:17,569: proxy - INFO - 192.168.1.8:57078 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-02 02:59:17,861: proxy - INFO - 192.168.1.8:57081 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-02 02:59:17,874: proxy - INFO - 192.168.1.8:57080 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-02 02:59:19,513: proxy - INFO - 192.168.1.8:57082 - GET summonerswar-gb.com2us.net:80/api/location_c2.php - 200 OK - 608 bytes
+2016-10-02 02:59:19,874: proxy - INFO - 192.168.1.8:57083 - POST summonerswar-gb.qpyou.cn:80/api/server_status_c2.php - 200 OK - 331 bytes
+2016-10-02 02:59:20,171: proxy - INFO - 192.168.1.8:57084 - POST summonerswar-gb.qpyou.cn:80/api/version_info_c2.php - 200 OK - 596 bytes
+2016-10-02 02:59:20,289: proxy - INFO - 192.168.1.8:57085 - GET image-glb.qpyou.cn:80/smon/hub_dist/res/download_3.00.24.inf - 200 OK - 637 bytes
+2016-10-02 02:59:21,015: proxy - INFO - 192.168.1.8:57086 - GET image-glb.qpyou.cn:80/smon/hub_dist/banapplist/banapplist.dat - 200 OK - 1553 bytes
+2016-10-02 02:59:21,371: proxy - INFO - 192.168.1.8:57087 - POST api.qpyou.cn:80/device/registered - 200 OK - 331 bytes
+2016-10-02 02:59:21,901: proxy - INFO - 192.168.1.8:57088 - GET hub.qpyou.cn:80/auth - 302 Moved Temporarily - 764 bytes
+2016-10-02 02:59:22,460: proxy - INFO - 192.168.1.8:57089 - POST api.qpyou.cn:80/user/me - 200 OK - 682 bytes
+2016-10-02 02:59:22,755: SWProxy - INFO - Found Summoners War API request : CheckLoginBlock
+2016-10-02 02:59:22,756: proxy - INFO - 192.168.1.8:57092 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 468 bytes
+2016-10-02 02:59:22,762: proxy - INFO - 192.168.1.8:57093 - POST m-mercury.qpyou.cn:80/init - 200 OK - 709 bytes
+2016-10-02 02:59:23,075: proxy - INFO - 192.168.1.8:57095 - POST m-mercury.qpyou.cn:80/init - 200 OK - 679 bytes
+2016-10-02 02:59:23,568: SWProxy - INFO - Found Summoners War API request : HubUserLogin
+2016-10-02 02:59:23,828: SWProxy - INFO - Monsters and Runes data generated
+2016-10-02 02:59:23,831: proxy - INFO - 192.168.1.8:57094 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 70614 bytes
+2016-10-02 02:59:24,188: proxy - INFO - 192.168.1.8:57090 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 02:59:24,269: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-02 02:59:24,270: proxy - INFO - 192.168.1.8:57096 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-02 02:59:24,585: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-02 02:59:24,585: proxy - INFO - 192.168.1.8:57097 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-02 02:59:25,773: SWProxy - INFO - Found Summoners War API request : GetFriendRequest
+2016-10-02 02:59:25,773: proxy - INFO - 192.168.1.8:57100 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 02:59:25,783: SWProxy - INFO - Found Summoners War API request : GetRTPvPInfo
+2016-10-02 02:59:25,783: proxy - INFO - 192.168.1.8:57102 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-02 02:59:25,805: SWProxy - INFO - Found Summoners War API request : GetGuildRequestAll
+2016-10-02 02:59:25,805: proxy - INFO - 192.168.1.8:57101 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 02:59:25,826: SWProxy - INFO - Found Summoners War API request : GetArenaLog
+2016-10-02 02:59:25,826: proxy - INFO - 192.168.1.8:57099 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1280 bytes
+2016-10-02 02:59:25,829: proxy - INFO - 192.168.1.8:57103 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-02 02:59:26,036: SWProxy - INFO - Found Summoners War API request : receiveDailyRewardInactive
+2016-10-02 02:59:26,039: proxy - INFO - 192.168.1.8:57106 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 02:59:26,052: SWProxy - INFO - Found Summoners War API request : ReceiveDailyRewardSpecial
+2016-10-02 02:59:26,053: proxy - INFO - 192.168.1.8:57107 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 02:59:26,065: SWProxy - INFO - Found Summoners War API request : getUnitUpgradeRewardInfo
+2016-10-02 02:59:26,069: SWProxy - INFO - Found Summoners War API request : GetChatServerInfo
+2016-10-02 02:59:26,069: proxy - INFO - 192.168.1.8:57108 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 980 bytes
+2016-10-02 02:59:26,069: proxy - INFO - 192.168.1.8:57105 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 768 bytes
+2016-10-02 02:59:26,321: SWProxy - INFO - Found Summoners War API request : CheckDarkPortalStatus
+2016-10-02 02:59:26,322: proxy - INFO - 192.168.1.8:57110 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-02 02:59:26,328: SWProxy - INFO - Found Summoners War API request : GetCostumeCollectionList
+2016-10-02 02:59:26,328: proxy - INFO - 192.168.1.8:57109 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1256 bytes
+2016-10-02 02:59:28,328: proxy - INFO - 192.168.1.8:57098 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 02:59:33,397: proxy - INFO - 192.168.1.8:57114 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-02 02:59:34,336: proxy - INFO - 192.168.1.8:57111 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 02:59:34,634: proxy - INFO - 192.168.1.8:57115 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-02 02:59:35,608: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-02 02:59:35,608: proxy - INFO - 192.168.1.8:57117 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1641 bytes
+2016-10-02 02:59:36,084: SWProxy - INFO - Found Summoners War API request : GetNoticeChat
+2016-10-02 02:59:36,085: proxy - INFO - 192.168.1.8:57119 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 660 bytes
+2016-10-02 02:59:36,088: SWProxy - INFO - Found Summoners War API request : GetNoticeDungeon
+2016-10-02 02:59:36,089: proxy - INFO - 192.168.1.8:57118 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-02 02:59:36,099: proxy - INFO - 192.168.1.8:57120 - POST api.qpyou.cn:80/user/118005567 - 200 OK - 573 bytes
+2016-10-02 02:59:36,424: proxy - INFO - 192.168.1.8:57121 - POST api.qpyou.cn:80/user/84248951 - 200 OK - 629 bytes
+2016-10-02 02:59:36,798: proxy - INFO - 192.168.1.8:57122 - POST api.qpyou.cn:80/user/165435408 - 200 OK - 551 bytes
+2016-10-02 02:59:37,233: proxy - INFO - 192.168.1.8:57123 - POST api.qpyou.cn:80/user/91387490 - 200 OK - 547 bytes
+2016-10-02 02:59:37,644: proxy - INFO - 192.168.1.8:57124 - POST api.qpyou.cn:80/user/109046775 - 200 OK - 566 bytes
+2016-10-02 02:59:38,345: proxy - INFO - 192.168.1.8:57125 - POST api.qpyou.cn:80/user/131212999 - 200 OK - 570 bytes
+2016-10-02 02:59:38,762: proxy - INFO - 192.168.1.8:57126 - POST api.qpyou.cn:80/user/112719793 - 200 OK - 565 bytes
+2016-10-02 02:59:39,210: SWProxy - INFO - Found Summoners War API request : ReceiveMail
+2016-10-02 02:59:39,211: proxy - INFO - 192.168.1.8:57128 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 980 bytes
+2016-10-02 02:59:39,233: proxy - INFO - 192.168.1.8:57127 - POST api.qpyou.cn:80/user/145089931 - 200 OK - 543 bytes
+2016-10-02 02:59:39,588: proxy - INFO - 192.168.1.8:57129 - POST api.qpyou.cn:80/user/157464034 - 200 OK - 547 bytes
+2016-10-02 02:59:40,043: proxy - INFO - 192.168.1.8:57130 - POST api.qpyou.cn:80/user/151124118 - 200 OK - 573 bytes
+2016-10-02 02:59:42,355: proxy - INFO - 192.168.1.8:57116 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 02:59:43,974: proxy - INFO - 192.168.1.8:57067 - CONNECT setting.adzcore.com:443
+2016-10-02 02:59:44,197: proxy - INFO - 192.168.1.8:57068 - CONNECT init.itunes.apple.com:443
+2016-10-02 02:59:45,078: proxy - INFO - 192.168.1.8:57071 - CONNECT graph.facebook.com:443
+2016-10-02 02:59:45,078: proxy - INFO - 192.168.1.8:57075 - CONNECT live.chartboost.com:443
+2016-10-02 02:59:45,329: proxy - INFO - 192.168.1.8:57072 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-02 02:59:45,753: proxy - INFO - 192.168.1.8:57131 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-02 02:59:45,753: proxy - INFO - 192.168.1.8:57112 - CONNECT 169452.engine.mobileapptracking.com:443
+2016-10-02 02:59:45,753: proxy - INFO - 192.168.1.8:57073 - CONNECT action.adzcore.com:443
+2016-10-02 02:59:45,753: proxy - INFO - 192.168.1.8:57091 - CONNECT image-glb.qpyou.cn:443
+2016-10-02 02:59:46,960: proxy - INFO - 192.168.1.8:57074 - CONNECT itunes.apple.com:443
+2016-10-02 02:59:56,828: proxy - INFO - 192.168.1.8:57104 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-05 15:24:09,154: SWPlugin - INFO - Loaded 6 plugins
+2016-10-05 15:24:11,835: SWProxy - INFO - Running Proxy server at 192.168.1.13 on port 8080
+2016-10-05 15:24:11,836: proxy - INFO - Starting server on 192.168.1.13, port 8080
+2016-10-05 15:25:17,229: proxy - INFO - 192.168.1.4:56132 - CONNECT configuration.apple.com:443
+2016-10-05 15:25:17,903: proxy - INFO - 192.168.1.4:56133 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-05 15:25:21,049: proxy - INFO - 192.168.1.4:56142 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 418 bytes
+2016-10-05 15:25:21,306: proxy - INFO - 192.168.1.4:56143 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-05 15:25:21,328: proxy - INFO - 192.168.1.4:56145 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 418 bytes
+2016-10-05 15:25:21,329: proxy - INFO - 192.168.1.4:56144 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-05 15:25:21,691: proxy - INFO - 192.168.1.4:56146 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-05 15:25:21,747: proxy - INFO - 192.168.1.4:56147 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-05 15:25:23,305: proxy - INFO - 192.168.1.4:56148 - GET summonerswar-gb.com2us.net:80/api/location_c2.php - 200 OK - 608 bytes
+2016-10-05 15:25:23,634: proxy - INFO - 192.168.1.4:56149 - POST summonerswar-gb.qpyou.cn:80/api/server_status_c2.php - 200 OK - 331 bytes
+2016-10-05 15:25:23,911: proxy - INFO - 192.168.1.4:56150 - POST summonerswar-gb.qpyou.cn:80/api/version_info_c2.php - 200 OK - 596 bytes
+2016-10-05 15:25:24,039: proxy - INFO - 192.168.1.4:56151 - GET image-glb.qpyou.cn:80/smon/hub_dist/res/download_3.00.24.inf - 200 OK - 636 bytes
+2016-10-05 15:25:25,092: proxy - INFO - 192.168.1.4:56152 - GET image-glb.qpyou.cn:80/smon/hub_dist/banapplist/banapplist.dat - 200 OK - 1553 bytes
+2016-10-05 15:25:25,526: proxy - INFO - 192.168.1.4:56153 - POST api.qpyou.cn:80/device/registered - 200 OK - 406 bytes
+2016-10-05 15:25:26,157: proxy - INFO - 192.168.1.4:56154 - GET hub.qpyou.cn:80/auth - 302 Moved Temporarily - 839 bytes
+2016-10-05 15:25:26,517: proxy - INFO - 192.168.1.4:56156 - POST api.qpyou.cn:80/user/me - 200 OK - 682 bytes
+2016-10-05 15:25:26,750: SWProxy - INFO - Found Summoners War API request : CheckLoginBlock
+2016-10-05 15:25:26,752: proxy - INFO - 192.168.1.4:56158 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 468 bytes
+2016-10-05 15:25:26,869: proxy - INFO - 192.168.1.4:56159 - POST m-mercury.qpyou.cn:80/init - 200 OK - 804 bytes
+2016-10-05 15:25:27,186: proxy - INFO - 192.168.1.4:56161 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-05 15:25:27,443: SWProxy - INFO - Found Summoners War API request : HubUserLogin
+2016-10-05 15:25:27,720: SWProxy - INFO - Monsters and Runes data generated
+2016-10-05 15:25:27,740: proxy - INFO - 192.168.1.4:56160 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 72834 bytes
+2016-10-05 15:25:28,207: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-05 15:25:28,209: proxy - INFO - 192.168.1.4:56162 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 660 bytes
+2016-10-05 15:25:28,259: proxy - INFO - 192.168.1.4:56155 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-05 15:25:28,724: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-05 15:25:28,726: proxy - INFO - 192.168.1.4:56164 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 660 bytes
+2016-10-05 15:25:30,803: SWProxy - INFO - Found Summoners War API request : GetGuildRequestAll
+2016-10-05 15:25:30,805: proxy - INFO - 192.168.1.4:56168 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-05 15:25:30,822: SWProxy - INFO - Found Summoners War API request : GetRTPvPInfo
+2016-10-05 15:25:30,822: proxy - INFO - 192.168.1.4:56169 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-05 15:25:30,857: SWProxy - INFO - Found Summoners War API request : GetFriendRequest
+2016-10-05 15:25:30,858: proxy - INFO - 192.168.1.4:56167 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 576 bytes
+2016-10-05 15:25:30,859: proxy - INFO - 192.168.1.4:56170 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-05 15:25:31,042: SWProxy - INFO - Found Summoners War API request : GetChatServerInfo
+2016-10-05 15:25:31,042: proxy - INFO - 192.168.1.4:56172 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 768 bytes
+2016-10-05 15:25:31,055: SWProxy - INFO - Found Summoners War API request : receiveDailyRewardInactive
+2016-10-05 15:25:31,056: proxy - INFO - 192.168.1.4:56173 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-05 15:25:31,069: SWProxy - INFO - Found Summoners War API request : ReceiveDailyRewardSpecial
+2016-10-05 15:25:31,069: proxy - INFO - 192.168.1.4:56174 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-05 15:25:31,154: SWProxy - INFO - Found Summoners War API request : GetArenaLog
+2016-10-05 15:25:31,155: proxy - INFO - 192.168.1.4:56166 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1280 bytes
+2016-10-05 15:25:31,273: SWProxy - INFO - Found Summoners War API request : getUnitUpgradeRewardInfo
+2016-10-05 15:25:31,273: proxy - INFO - 192.168.1.4:56175 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 872 bytes
+2016-10-05 15:25:31,289: SWProxy - INFO - Found Summoners War API request : CheckDarkPortalStatus
+2016-10-05 15:25:31,289: proxy - INFO - 192.168.1.4:56177 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-05 15:25:31,338: SWProxy - INFO - Found Summoners War API request : GetCostumeCollectionList
+2016-10-05 15:25:31,339: proxy - INFO - 192.168.1.4:56176 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1256 bytes
+2016-10-05 15:25:32,450: proxy - INFO - 192.168.1.4:56165 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-05 15:25:32,466: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-05 15:25:32,467: proxy - INFO - 192.168.1.4:56178 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1833 bytes
+2016-10-05 15:25:32,967: SWProxy - INFO - Found Summoners War API request : GetNoticeDungeon
+2016-10-05 15:25:32,967: proxy - INFO - 192.168.1.4:56180 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-05 15:25:33,000: proxy - INFO - 192.168.1.4:56182 - POST api.qpyou.cn:80/user/84248951 - 200 OK - 629 bytes
+2016-10-05 15:25:33,002: SWProxy - INFO - Found Summoners War API request : GetNoticeChat
+2016-10-05 15:25:33,003: proxy - INFO - 192.168.1.4:56181 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-05 15:25:33,352: proxy - INFO - 192.168.1.4:56183 - POST api.qpyou.cn:80/user/91387490 - 200 OK - 547 bytes
+2016-10-05 15:25:33,835: proxy - INFO - 192.168.1.4:56184 - POST api.qpyou.cn:80/user/109046775 - 200 OK - 566 bytes
+2016-10-05 15:25:34,184: SWProxy - INFO - Found Summoners War API request : ReceiveMail
+2016-10-05 15:25:34,184: proxy - INFO - 192.168.1.4:56185 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-05 15:25:34,255: proxy - INFO - 192.168.1.4:56186 - POST api.qpyou.cn:80/user/165435408 - 200 OK - 551 bytes
+2016-10-05 15:25:34,586: proxy - INFO - 192.168.1.4:56187 - POST api.qpyou.cn:80/user/155754938 - 200 OK - 534 bytes
+2016-10-05 15:25:35,292: proxy - INFO - 192.168.1.4:56188 - POST api.qpyou.cn:80/user/118005567 - 200 OK - 573 bytes
+2016-10-05 15:25:35,801: proxy - INFO - 192.168.1.4:56189 - POST api.qpyou.cn:80/user/113744032 - 200 OK - 571 bytes
+2016-10-05 15:25:38,473: proxy - INFO - 192.168.1.4:56179 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-05 15:25:42,160: proxy - INFO - 192.168.1.4:56191 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-05 15:25:45,539: SWProxy - INFO - Found Summoners War API request : GetWizardInfo
+2016-10-05 15:25:45,539: proxy - INFO - 192.168.1.4:56192 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 896 bytes
+2016-10-05 15:25:45,655: proxy - INFO - 192.168.1.4:56193 - POST api.qpyou.cn:80/user/167808387 - 200 OK - 555 bytes
+2016-10-05 15:25:46,048: proxy - INFO - 192.168.1.4:56195 - POST api.qpyou.cn:80/user/144973055 - 200 OK - 569 bytes
+2016-10-05 15:25:46,417: proxy - INFO - 192.168.1.4:56197 - POST api.qpyou.cn:80/user/106907158 - 200 OK - 542 bytes
+2016-10-05 15:25:46,470: proxy - INFO - 192.168.1.4:56190 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-05 15:25:46,750: proxy - INFO - 192.168.1.4:56199 - POST api.qpyou.cn:80/user/140541701 - 200 OK - 527 bytes
+2016-10-05 15:25:47,154: proxy - INFO - 192.168.1.4:56201 - POST api.qpyou.cn:80/user/151677118 - 200 OK - 553 bytes
+2016-10-05 15:25:47,187: proxy - INFO - 192.168.1.4:56131 - CONNECT init.itunes.apple.com:443
+2016-10-05 15:25:47,315: proxy - INFO - 192.168.1.4:56196 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-05 15:25:47,690: proxy - INFO - 192.168.1.4:56202 - POST api.qpyou.cn:80/user/162267959 - 200 OK - 513 bytes
+2016-10-05 15:25:47,773: proxy - INFO - 192.168.1.4:56129 - CONNECT setting.adzcore.com:443
+2016-10-05 15:25:47,823: proxy - INFO - 192.168.1.4:56134 - CONNECT xp.apple.com:443
+2016-10-05 15:25:48,359: proxy - INFO - 192.168.1.4:56200 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-05 15:25:48,608: proxy - INFO - 192.168.1.4:56141 - CONNECT iadsdk.apple.com:443
+2016-10-05 15:25:48,611: proxy - INFO - 192.168.1.4:56140 - CONNECT cf.iadsdk.apple.com:443
+2016-10-05 15:25:48,877: proxy - INFO - 192.168.1.4:56136 - CONNECT live.chartboost.com:443
+2016-10-05 15:25:49,127: proxy - INFO - 192.168.1.4:56137 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-05 15:25:49,961: SWProxy - INFO - Found Summoners War API request : GetWizardInfo
+2016-10-05 15:25:49,963: proxy - INFO - 192.168.1.4:56203 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 896 bytes
+2016-10-05 15:25:49,971: proxy - INFO - 192.168.1.4:56138 - CONNECT action.adzcore.com:443
+2016-10-05 15:25:51,592: proxy - INFO - 192.168.1.4:56139 - CONNECT itunes.apple.com:443
+2016-10-05 15:25:56,484: proxy - INFO - 192.168.1.4:56198 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-05 15:26:01,471: proxy - INFO - 192.168.1.4:56171 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-05 15:26:03,078: proxy - INFO - 192.168.1.4:56130 - CONNECT 169452.engine.mobileapptracking.com:443
+2016-10-05 15:26:03,078: proxy - INFO - 192.168.1.4:56135 - CONNECT graph.facebook.com:443
+2016-10-05 15:26:14,857: SWProxy - INFO - Found Summoners War API request : GetGuildInfo
+2016-10-05 15:26:14,858: proxy - INFO - 192.168.1.4:56204 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 2817 bytes
+2016-10-05 15:26:15,453: SWProxy - INFO - Found Summoners War API request : GetFriendList
+2016-10-05 15:26:15,454: proxy - INFO - 192.168.1.4:56205 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 2881 bytes
+2016-10-05 15:26:15,470: proxy - INFO - 192.168.1.4:56163 - CONNECT cl3.apple.com:443
+2016-10-05 15:26:15,812: proxy - INFO - 192.168.1.4:56206 - POST api.qpyou.cn:80/user/164795356 - 200 OK - 547 bytes
+2016-10-05 15:26:16,200: proxy - INFO - 192.168.1.4:56207 - POST api.qpyou.cn:80/user/2324414 - 200 OK - 543 bytes
+2016-10-05 15:26:18,910: proxy - INFO - 192.168.1.4:56209 - POST api.qpyou.cn:80/user/168227383 - 200 OK - 550 bytes
+2016-10-05 15:26:18,966: SWProxy - INFO - Found Summoners War API request : SendDailyGift
+2016-10-05 15:26:18,967: proxy - INFO - 192.168.1.4:56210 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1280 bytes
+2016-10-05 15:26:19,236: SWProxy - INFO - Found Summoners War API request : UpdateDailyQuest
+2016-10-05 15:26:19,236: proxy - INFO - 192.168.1.4:56211 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-05 15:26:19,325: proxy - INFO - 192.168.1.4:56212 - POST api.qpyou.cn:80/user/159375895 - 200 OK - 580 bytes
+2016-10-05 15:26:19,711: proxy - INFO - 192.168.1.4:56213 - POST api.qpyou.cn:80/user/3518017 - 200 OK - 542 bytes
+2016-10-05 15:26:20,000: SWProxy - INFO - Found Summoners War API request : SendDailyGift
+2016-10-05 15:26:20,000: proxy - INFO - 192.168.1.4:56214 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1152 bytes
+2016-10-05 15:26:20,039: proxy - INFO - 192.168.1.4:56215 - POST api.qpyou.cn:80/user/131532638 - 200 OK - 572 bytes
+2016-10-05 15:26:20,230: SWProxy - INFO - Found Summoners War API request : UpdateDailyQuest
+2016-10-05 15:26:20,230: proxy - INFO - 192.168.1.4:56216 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-05 15:26:21,035: SWProxy - INFO - Found Summoners War API request : SendDailyGift
+2016-10-05 15:26:21,035: proxy - INFO - 192.168.1.4:56217 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1152 bytes
+2016-10-05 15:26:26,671: SWProxy - INFO - Found Summoners War API request : AcceptFriendRequest
+2016-10-05 15:26:26,671: proxy - INFO - 192.168.1.4:56221 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-05 15:26:26,736: proxy - INFO - 192.168.1.4:56220 - POST friend-api.qpyou.cn:80/api/friends/request - 200 OK - 501 bytes
+2016-10-05 15:26:31,295: SWProxy - INFO - Found Summoners War API request : RewardDailyQuest
+2016-10-05 15:26:31,296: proxy - INFO - 192.168.1.4:56224 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 980 bytes
+2016-10-05 15:26:34,265: SWProxy - INFO - Found Summoners War API request : GetBlackMarketList
+2016-10-05 15:26:34,265: proxy - INFO - 192.168.1.4:56225 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1216 bytes
+2016-10-05 15:26:37,727: SWProxy - INFO - Found Summoners War API request : GetGuildWarMatchupInfo
+2016-10-05 15:26:37,729: proxy - INFO - 192.168.1.4:56226 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 2645 bytes
+2016-10-05 15:26:37,762: SWProxy - INFO - Found Summoners War API request : GetGuildWarParticipationInfo
+2016-10-05 15:26:37,763: proxy - INFO - 192.168.1.4:56227 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 3349 bytes
+2016-10-05 15:26:37,835: proxy - INFO - 192.168.1.4:56229 - POST api.qpyou.cn:80/user/143664309 - 200 OK - 557 bytes
+2016-10-05 15:26:37,971: SWProxy - INFO - Found Summoners War API request : GetGuildWarStatusInfo
+2016-10-05 15:26:37,973: proxy - INFO - 192.168.1.4:56228 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-05 15:26:38,154: proxy - INFO - 192.168.1.4:56230 - POST api.qpyou.cn:80/user/163471005 - 200 OK - 518 bytes
+2016-10-05 15:26:38,476: proxy - INFO - 192.168.1.4:56231 - POST api.qpyou.cn:80/user/156313922 - 200 OK - 541 bytes
+2016-10-05 15:26:38,836: proxy - INFO - 192.168.1.4:56232 - POST api.qpyou.cn:80/user/129830029 - 200 OK - 514 bytes
+2016-10-05 15:26:39,265: proxy - INFO - 192.168.1.4:56233 - POST api.qpyou.cn:80/user/90068402875 - 500 Internal Server Error - 16141 bytes
+2016-10-05 15:26:39,273: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-05 15:26:39,275: proxy - INFO - 192.168.1.4:56234 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1833 bytes
+2016-10-05 15:26:39,559: proxy - INFO - 192.168.1.4:56235 - POST api.qpyou.cn:80/user/113107281 - 200 OK - 520 bytes
+2016-10-05 15:26:39,961: proxy - INFO - 192.168.1.4:56236 - POST api.qpyou.cn:80/user/101334031 - 200 OK - 581 bytes
+2016-10-05 15:26:48,221: proxy - INFO - 192.168.1.4:56208 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-08 19:14:53,395: SWPlugin - INFO - Loaded 6 plugins
+2016-10-08 19:14:55,447: SWProxy - INFO - Running Proxy server at 192.168.1.13 on port 8080
+2016-10-08 19:14:55,448: proxy - INFO - Starting server on 192.168.1.13, port 8080
+2016-10-08 19:15:38,980: proxy - INFO - 192.168.1.8:63949 - CONNECT configuration.apple.com:443
+2016-10-08 19:15:39,118: proxy - INFO - 192.168.1.8:63950 - CONNECT gsp-ssl.ls.apple.com:443
+2016-10-08 19:15:39,217: proxy - INFO - 192.168.1.8:63957 - CONNECT api-glb-ash.smoot.apple.com:443
+2016-10-08 19:15:39,220: proxy - INFO - 192.168.1.8:63958 - CONNECT api-glb-ash.smoot.apple.com:443
+2016-10-08 19:15:39,592: proxy - INFO - 192.168.1.8:63960 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 418 bytes
+2016-10-08 19:15:39,855: proxy - INFO - 192.168.1.8:63963 - POST activeuser.qpyou.cn:80/gateway.php - 200 OK - 463 bytes
+2016-10-08 19:15:39,857: proxy - INFO - 192.168.1.8:63962 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-08 19:15:39,881: proxy - INFO - 192.168.1.8:63961 - POST push.qpyou.cn:80/api/register.php - 200 OK - 283 bytes
+2016-10-08 19:15:40,105: proxy - INFO - 192.168.1.8:63964 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-08 19:15:40,124: proxy - INFO - 192.168.1.8:63965 - POST push.qpyou.cn:80/api/agree/v1/get.php - 200 OK - 350 bytes
+2016-10-08 19:15:41,822: proxy - INFO - 192.168.1.8:63966 - GET summonerswar-gb.com2us.net:80/api/location_c2.php - 200 OK - 608 bytes
+2016-10-08 19:15:42,072: proxy - INFO - 192.168.1.8:63967 - POST summonerswar-gb.qpyou.cn:80/api/server_status_c2.php - 200 OK - 331 bytes
+2016-10-08 19:15:42,301: proxy - INFO - 192.168.1.8:63968 - POST summonerswar-gb.qpyou.cn:80/api/version_info_c2.php - 200 OK - 596 bytes
+2016-10-08 19:15:42,335: proxy - INFO - 192.168.1.8:63969 - GET image-glb.qpyou.cn:80/smon/hub_dist/res/download_3.00.24.inf - 200 OK - 646 bytes
+2016-10-08 19:15:43,089: proxy - INFO - 192.168.1.8:63970 - GET image-glb.qpyou.cn:80/smon/hub_dist/banapplist/banapplist.dat - 200 OK - 1524 bytes
+2016-10-08 19:15:43,417: proxy - INFO - 192.168.1.8:63971 - POST api.qpyou.cn:80/device/registered - 200 OK - 331 bytes
+2016-10-08 19:15:43,898: proxy - INFO - 192.168.1.8:63972 - GET hub.qpyou.cn:80/auth - 302 Moved Temporarily - 764 bytes
+2016-10-08 19:15:44,234: proxy - INFO - 192.168.1.8:63973 - POST api.qpyou.cn:80/user/me - 200 OK - 682 bytes
+2016-10-08 19:15:44,519: SWProxy - INFO - Found Summoners War API request : CheckLoginBlock
+2016-10-08 19:15:44,520: proxy - INFO - 192.168.1.8:63976 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 468 bytes
+2016-10-08 19:15:44,595: proxy - INFO - 192.168.1.8:63977 - POST m-mercury.qpyou.cn:80/init - 200 OK - 802 bytes
+2016-10-08 19:15:44,980: proxy - INFO - 192.168.1.8:63979 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-08 19:15:45,413: SWProxy - INFO - Found Summoners War API request : HubUserLogin
+2016-10-08 19:15:45,698: SWProxy - INFO - Monsters and Runes data generated
+2016-10-08 19:15:45,714: proxy - INFO - 192.168.1.8:63978 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 72706 bytes
+2016-10-08 19:15:45,996: proxy - INFO - 192.168.1.8:63974 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-08 19:15:46,173: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-08 19:15:46,174: proxy - INFO - 192.168.1.8:63980 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-08 19:15:46,773: SWProxy - INFO - Found Summoners War API request : GetDailyQuests
+2016-10-08 19:15:46,773: proxy - INFO - 192.168.1.8:63982 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 640 bytes
+2016-10-08 19:15:49,059: SWProxy - INFO - Found Summoners War API request : GetGuildRequestAll
+2016-10-08 19:15:49,062: proxy - INFO - 192.168.1.8:63985 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-08 19:15:49,075: SWProxy - INFO - Found Summoners War API request : GetArenaLog
+2016-10-08 19:15:49,075: proxy - INFO - 192.168.1.8:63983 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1321 bytes
+2016-10-08 19:15:49,078: SWProxy - INFO - Found Summoners War API request : GetRTPvPInfo
+2016-10-08 19:15:49,079: proxy - INFO - 192.168.1.8:63986 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 680 bytes
+2016-10-08 19:15:49,171: proxy - INFO - 192.168.1.8:63987 - POST m-mercury.qpyou.cn:80/init - 200 OK - 375 bytes
+2016-10-08 19:15:49,302: SWProxy - INFO - Found Summoners War API request : GetChatServerInfo
+2016-10-08 19:15:49,302: proxy - INFO - 192.168.1.8:63989 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 768 bytes
+2016-10-08 19:15:49,306: SWProxy - INFO - Found Summoners War API request : ReceiveDailyRewardSpecial
+2016-10-08 19:15:49,308: proxy - INFO - 192.168.1.8:63991 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-08 19:15:49,309: SWProxy - INFO - Found Summoners War API request : GetFriendRequest
+2016-10-08 19:15:49,311: proxy - INFO - 192.168.1.8:63984 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-08 19:15:49,334: SWProxy - INFO - Found Summoners War API request : receiveDailyRewardInactive
+2016-10-08 19:15:49,334: proxy - INFO - 192.168.1.8:63990 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-08 19:15:49,546: SWProxy - INFO - Found Summoners War API request : getUnitUpgradeRewardInfo
+2016-10-08 19:15:49,548: proxy - INFO - 192.168.1.8:63992 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 872 bytes
+2016-10-08 19:15:49,565: SWProxy - INFO - Found Summoners War API request : GetCostumeCollectionList
+2016-10-08 19:15:49,565: proxy - INFO - 192.168.1.8:63993 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1256 bytes
+2016-10-08 19:15:49,721: SWProxy - INFO - Found Summoners War API request : CheckDarkPortalStatus
+2016-10-08 19:15:49,723: proxy - INFO - 192.168.1.8:63994 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-08 19:15:50,003: proxy - INFO - 192.168.1.8:63981 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-08 19:15:51,434: SWProxy - INFO - Found Summoners War API request : GetEventTimeTable
+2016-10-08 19:15:51,434: proxy - INFO - 192.168.1.8:63997 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1665 bytes
+2016-10-08 19:15:51,891: SWProxy - INFO - Found Summoners War API request : GetNoticeChat
+2016-10-08 19:15:51,894: proxy - INFO - 192.168.1.8:63999 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 704 bytes
+2016-10-08 19:15:51,921: SWProxy - INFO - Found Summoners War API request : GetNoticeDungeon
+2016-10-08 19:15:51,923: proxy - INFO - 192.168.1.8:63998 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 488 bytes
+2016-10-08 19:15:51,987: proxy - INFO - 192.168.1.8:64000 - POST api.qpyou.cn:80/user/165435408 - 200 OK - 551 bytes
+2016-10-08 19:15:52,299: proxy - INFO - 192.168.1.8:64001 - POST api.qpyou.cn:80/user/84248951 - 200 OK - 629 bytes
+2016-10-08 19:15:52,723: proxy - INFO - 192.168.1.8:64002 - POST api.qpyou.cn:80/user/91387490 - 200 OK - 547 bytes
+2016-10-08 19:15:53,213: SWProxy - INFO - Found Summoners War API request : ReceiveMail
+2016-10-08 19:15:53,214: proxy - INFO - 192.168.1.8:64004 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 916 bytes
+2016-10-08 19:15:53,226: proxy - INFO - 192.168.1.8:64003 - POST api.qpyou.cn:80/user/109046775 - 200 OK - 566 bytes
+2016-10-08 19:15:53,651: proxy - INFO - 192.168.1.8:64005 - POST api.qpyou.cn:80/user/118005567 - 200 OK - 573 bytes
+2016-10-08 19:15:53,877: SWProxy - INFO - Found Summoners War API request : ReceiveMail
+2016-10-08 19:15:53,877: proxy - INFO - 192.168.1.8:64006 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 916 bytes
+2016-10-08 19:15:54,217: proxy - INFO - 192.168.1.8:64007 - POST api.qpyou.cn:80/user/163646229 - 200 OK - 551 bytes
+2016-10-08 19:15:54,789: proxy - INFO - 192.168.1.8:64008 - POST api.qpyou.cn:80/user/118340896 - 200 OK - 548 bytes
+2016-10-08 19:15:55,217: proxy - INFO - 192.168.1.8:64009 - POST api.qpyou.cn:80/user/115341835 - 200 OK - 552 bytes
+2016-10-08 19:15:55,655: proxy - INFO - 192.168.1.8:64010 - POST api.qpyou.cn:80/user/110795626 - 200 OK - 542 bytes
+2016-10-08 19:15:56,006: proxy - INFO - 192.168.1.8:63995 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-08 19:15:56,704: proxy - INFO - 192.168.1.8:64012 - POST api.qpyou.cn:80/user/115333704 - 200 OK - 572 bytes
+2016-10-08 19:15:56,744: SWProxy - INFO - Found Summoners War API request : ReceiveMail
+2016-10-08 19:15:56,746: proxy - INFO - 192.168.1.8:64013 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 936 bytes
+2016-10-08 19:15:57,496: proxy - INFO - 192.168.1.8:64014 - POST api.qpyou.cn:80/user/136689402 - 200 OK - 557 bytes
+2016-10-08 19:15:57,924: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-08 19:15:57,927: proxy - INFO - 192.168.1.8:64016 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-08 19:15:58,164: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-08 19:15:58,164: proxy - INFO - 192.168.1.8:64018 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-08 19:15:58,436: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-08 19:15:58,437: proxy - INFO - 192.168.1.8:64019 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-08 19:15:58,668: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-08 19:15:58,668: proxy - INFO - 192.168.1.8:64020 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-08 19:15:59,273: proxy - INFO - 192.168.1.8:64017 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-08 19:15:59,742: proxy - INFO - 192.168.1.8:64021 - CONNECT cli-api-chat-gsp.com2us.net:443
+2016-10-08 19:16:00,345: SWProxy - INFO - Found Summoners War API request : Harvest
+2016-10-08 19:16:00,346: proxy - INFO - 192.168.1.8:64022 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1000 bytes
+2016-10-08 19:16:00,724: SWProxy - INFO - Found Summoners War API request : UpdateAchievement
+2016-10-08 19:16:00,726: proxy - INFO - 192.168.1.8:64023 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 552 bytes
+2016-10-08 19:16:04,032: proxy - INFO - 192.168.1.8:64011 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-08 19:16:07,112: proxy - INFO - 192.168.1.8:63956 - CONNECT live.chartboost.com:443
+2016-10-08 19:16:09,009: proxy - INFO - 192.168.1.8:63947 - CONNECT setting.adzcore.com:443
+2016-10-08 19:16:09,763: proxy - INFO - 192.168.1.8:63948 - CONNECT init.itunes.apple.com:443
+2016-10-08 19:16:10,108: proxy - INFO - 192.168.1.8:63954 - CONNECT iadsdk.apple.com:443
+2016-10-08 19:16:10,109: proxy - INFO - 192.168.1.8:63953 - CONNECT cf.iadsdk.apple.com:443
+2016-10-08 19:16:10,551: proxy - INFO - 192.168.1.8:63952 - POST analytics.app-adforce.jp:80/fax/analytics - 200 OK - 110 bytes
+2016-10-08 19:16:11,207: proxy - INFO - 192.168.1.8:63959 - CONNECT action.adzcore.com:443
+2016-10-08 19:16:13,345: proxy - INFO - 192.168.1.8:63955 - CONNECT itunes.apple.com:443
+2016-10-08 19:16:14,045: proxy - INFO - 192.168.1.8:64024 - POST None:None/api/addressbook/addressbooksynccount - None None - 0 bytes
+2016-10-08 19:16:17,500: SWProxy - INFO - Found Summoners War API request : GetBlackMarketList
+2016-10-08 19:16:17,500: proxy - INFO - 192.168.1.8:64025 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1236 bytes
+2016-10-08 19:16:20,016: proxy - INFO - 192.168.1.8:63988 - CONNECT p43-buy.itunes.apple.com:443
+2016-10-08 19:16:22,141: proxy - INFO - 192.168.1.8:63951 - CONNECT graph.facebook.com:443
+2016-10-08 19:16:22,191: proxy - INFO - 192.168.1.8:63996 - CONNECT 169452.engine.mobileapptracking.com:443
+2016-10-08 19:16:27,730: SWProxy - INFO - Found Summoners War API request : GetDungeonList
+2016-10-08 19:16:27,732: proxy - INFO - 192.168.1.8:64026 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 1064 bytes
+2016-10-08 19:16:27,733: SWProxy - INFO - Found Summoners War API request : getInstanceList
+2016-10-08 19:16:27,734: proxy - INFO - 192.168.1.8:64027 - POST summonerswar-gb.qpyou.cn:80/api/gateway_c2.php - 200 OK - 532 bytes
+2016-10-08 19:16:28,753: proxy - INFO - 192.168.1.8:63975 - CONNECT image-glb.qpyou.cn:443
